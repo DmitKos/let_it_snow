@@ -1,6 +1,8 @@
 # Let it snow!
 Making a lot of snowflakes on OLED display 64x48 pixel with WEMOS D1 mini board.  
 
+[![Snowflakes on OLED](https://media.giphy.com/media/NDX2VlA1EzItu9v0qD/giphy.gif)](https://www.youtube.com/watch?v=dPt2NKRdVaU)
+
 ![OLED](https://github.com/DmitKos/let_it_snow/blob/main/oled_let_it_snow_bb.png)  
 
 ## Components:  
