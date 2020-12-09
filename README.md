@@ -1,14 +1,14 @@
 # Let it snow!
 Making a lot of snowflakes on OLED display 64x48 pixel with WEMOS D1 mini board.  
 
-[OLED](https://github.com/DmitKos/let_it_snow/blob/main/oled_let_it_snow_bb.png)  
+![OLED](https://github.com/DmitKos/let_it_snow/blob/main/oled_let_it_snow_bb.png)  
 
-##Components:  
+## Components:  
 1 × Wemos D1 mini on esp8266 board  
 1 × OLED Display 64x48 pixel or 128x64 pixel  
 1 × Breadboard  
 
-##Details:
+## Details:
 1. For OLED display I use driver [ssd1306](https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py) and put ssd1306 pyhon file on my board. For example:  
 `ampy -p COM3 put ssd1306.py`
 
@@ -21,4 +21,4 @@ Making a lot of snowflakes on OLED display 64x48 pixel with WEMOS D1 mini board.
 4. Please see an example py for example usage. Put example python file on your board or just run:  
 `ampy -p COM3 run example.py`
 
-* COM3 is the serial port on my computer. COM port on your computer may be different.
+_COM3 is the serial port on my computer. COM port on your computer may be different._
